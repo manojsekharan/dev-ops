@@ -1,1 +1,3 @@
-# dev-ops
+# maven-project
+
+Simple Maven Project
